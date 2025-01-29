@@ -46,9 +46,9 @@ A project focused on creating a digital art competition that integrates **secure
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RicardoUMC&show_icons=true&hide_title=true&count_private=true&theme=tokyonight&hide_border=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RicardoUMC&layout=compact&theme=tokyonight&hide_border=true)
+[![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=RicardoUMC&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=RicardoUMC&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=RicardoUMC&theme=tokyonight-duo&hide_border=true)](https://git.io/streak-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RicardoUMC&layout=compact&theme=tokyonight&hide_border=true)
 
 ## Contact Me
 
