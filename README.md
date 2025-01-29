@@ -30,7 +30,7 @@ Passionate **Software Developer** specializing in **Cybersecurity**, **Cryptogra
 
 ## 🌟 Featured Project
 
-### [Crypto Painting Competition](https://github.com/RicardoUMC/Crypto-Painting-Competition)
+### [**Crypto Painting Competition**](https://github.com/RicardoUMC/Crypto-Painting-Competition)
 
 A project focused on creating a digital art competition that integrates **secure encryption**, **blind signatures**, and other **cryptographic tools** to ensure the integrity and anonymity of participants. This project reflects my deep interest in cryptography and security.
 
