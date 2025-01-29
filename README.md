@@ -1,7 +1,5 @@
 # ✌️ Hi! I'm **Ricardo Mora**
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=RicardoUMC&label=Views&color=0e75b6&style=flat" alt="RicardoUMC" /> </p>
-
 Passionate **Software Developer** specializing in **Cybersecurity**, **Cryptography**, and **Embedded Systems**. I am particularly skilled in **C/C++** and am currently learning **Rust**. I am always eager to improve my technical abilities and create innovative solutions. Whether working on secure applications, exploring cryptographic algorithms, or developing embedded systems, I strive to deliver high-quality work that reflects my skills and passion for technology.
 
 ## 🛠️ My Tech Stack
