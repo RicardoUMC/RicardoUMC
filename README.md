@@ -16,28 +16,16 @@ Passionate **Software Developer** specializing in **Cybersecurity**, **Cryptogra
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)
+![Espressif](https://img.shields.io/badge/espressif-E7352C.svg?style=for-the-badge&logo=espressif&logoColor=white)
+![OpenSSL](https://img.shields.io/badge/Library-OpenSSL-FF5C39?style=flat&logo=openssl&logoColor=white)
+![AZ-900](https://img.shields.io/badge/Certification-AZ--900-blue?style=flat&logo=microsoft)
 
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Language-C-00599C?style=flat&logo=c&logoColor=white" alt="C" />
-  <img src="https://img.shields.io/badge/Language-C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/Language-Rust-000000?style=flat&logo=rust&logoColor=white" alt="Rust" />
-  <img src="https://img.shields.io/badge/Tool-Git-F05032?style=flat&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/Tool-Visual%20Studio%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white" alt="VSCode" />
-  <img src="https://img.shields.io/badge/Tool-Neovim-57A143?style=flat&logo=neovim&logoColor=white" alt="Neovim" />
-  <img src="https://img.shields.io/badge/Framework-ESP32-003B57?style=flat&logo=espressif&logoColor=white" alt="ESP32" />
-  <img src="https://img.shields.io/badge/Library-OpenSSL-FF5C39?style=flat&logo=openssl&logoColor=white" alt="OpenSSL" />
-</p>
-
-## 🔍 Learning
+### 🔍 Learning
 
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 
-
-- **Tools:** Git, Visual Studio Code, Neovim
-- **Frameworks & Libraries:** ESP32, Arduino, OpenSSL (Cryptographic Library)
-- **Certifications:** ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
- ![AZ-900](https://img.shields.io/badge/Certification-AZ--900-blue?style=flat&logo=microsoft)
 - **Specialization:** Software Development, Cybersecurity, Cryptography, Embedded Systems
 
 ## 🌟 Featured Project
