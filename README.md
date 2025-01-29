@@ -6,6 +6,9 @@ Passionate **Software Developer** specializing in **Cybersecurity**, **Cryptogra
 
 ## 🛠️ My Tech Stack
 
+![OpenSSL](https://img.shields.io/badge/Library-OpenSSL-FF5C39?style=flat&logo=openssl&logoColor=white)
+![AZ-900](https://img.shields.io/badge/Certification-AZ--900-blue?style=flat&logo=microsoft)
+
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -22,8 +25,6 @@ Passionate **Software Developer** specializing in **Cybersecurity**, **Cryptogra
 ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 ![Espressif](https://img.shields.io/badge/espressif-E7352C.svg?style=for-the-badge&logo=espressif&logoColor=white)
-![OpenSSL](https://img.shields.io/badge/Library-OpenSSL-FF5C39?style=flat&logo=openssl&logoColor=white)
-![AZ-900](https://img.shields.io/badge/Certification-AZ--900-blue?style=flat&logo=microsoft)
 
 ### 🔍 Learning
 
