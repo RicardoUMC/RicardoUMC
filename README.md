@@ -50,7 +50,7 @@ A project focused on creating a digital art competition that integrates **secure
 
 - **3rd Place** - *Main Hackathon* (June 2023)  
   Organized by: Vara Network and Gear Foundation  
-  Backend team using **Rust** to create [Rutzo](https://github.com/Rustizados/Rutzo), a Web3 game allowing users to win NFTs by competing with others.
+  Backend team using **Rust** to create [**Rutzo**](https://github.com/Rustizados/Rutzo), a Web3 game allowing users to win NFTs by competing with others.
 
 - **1st Place** - *Latin American Innovation Rally (Social Impact Category)* (October 2023)  
   Organized by: Latin American Innovation Rally  
