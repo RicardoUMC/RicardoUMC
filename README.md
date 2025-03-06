@@ -52,7 +52,7 @@ A project focused on creating a digital art competition that integrates **secure
 
 [![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=RicardoUMC&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RicardoUMC&hide_border=true&layout=compact&theme=tokyonight&langs_count=10)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RicardoUMC&hide_border=true&layout=compact&theme=tokyonight)
 
 ## Contact Me
 
